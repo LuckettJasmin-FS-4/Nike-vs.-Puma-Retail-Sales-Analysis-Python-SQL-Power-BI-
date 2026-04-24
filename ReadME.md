@@ -37,7 +37,17 @@ Highlights underperforming products that may need improvement or removal.
 🔹 Category Preference
 
 Pie chart showing distribution of product categories (e.g., Running, Gym, Lifestyle).
+## 📊 Live Dashboard
 
+View the interactive Tableau dashboard here:
+
+👉 https://public.tableau.com/views/NikevsPumaSales/Dashboard1
+
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
 📸 Dashboard Preview
 
 🔍 Key Insights
